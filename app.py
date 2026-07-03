@@ -87,7 +87,7 @@ def create_video(image_files, duplicate_count, fps, audio_path):
 
 # --- Streamlit Interface ---
 st.image("bugatti.png")
-st.title("PragyanAI - Multimedia Merger")
+st.title("chiron - Multimedia Merger")
 st.markdown("Upload multiple images, specify timing, and add audio from a file or YouTube.")
 
 with st.sidebar:
